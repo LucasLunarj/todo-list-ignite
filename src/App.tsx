@@ -63,8 +63,6 @@ export function App() {
           selectFinished={handleSelectFinished}
         />
       ))}
-
-      {/* <EmptyTasks /> */}
     </div>
   );
 }
